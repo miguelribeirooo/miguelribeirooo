@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Miguel</h1>
-- 🌱 estou aprendendo ##Python e Dart.
+- 🌱 estou aprendendo ###Python e Dart.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
