@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mxguxlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mxguxlr" height="30" width="40" /></a>
+ <a href="https://www.twitch.tv/mxguxlr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,8 +13,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelribeirooo&show_icons=true&locale=en&layout=compact" alt="miguelribeirooo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelribeirooo&" alt="miguelribeirooo" /></p>
-
-<a href="https://www.twitch.tv/mxguxlr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
  <div>
   <a href="https://github.com/miguelribeirooo">
