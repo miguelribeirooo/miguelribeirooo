@@ -1,12 +1,147 @@
-<h1 align="center">Olá 👋, Eu sou o Miguel</h1>
-- 🌱 estou aprendendo <b>Python e Dart.</b>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2F7DC3&height=120&section=header"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mxguxlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mxguxlr" height="30" width="40" /></a>
- <!-- <a href="https://www.twitch.tv/miguelribeirooo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
+<h1 align="center">Olá, eu sou o Miguel Ribeiro 👋</h1>
+
+<h3 align="center">
+  Desenvolvedor apaixonado por tecnologia, sistemas web e mobile
+</h3>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO_GITHUB">
+    <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=Visualizações&color=2F7DC3&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO_GITHUB?tab=followers">
+    <img src="https://img.shields.io/github/followers/SEU_USUARIO_GITHUB?style=for-the-badge&color=2F7DC3&labelColor=111827" alt="Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 👨‍💻 Sobre mim
+
+Sou um desenvolvedor em constante evolução, com interesse em desenvolvimento web, mobile, automações e criação de sistemas úteis para o dia a dia.
+
+Atualmente estou aprofundando meus estudos em **Python** e **Dart/Flutter**, buscando criar aplicações modernas, bem estruturadas e com boa experiência para o usuário.
+
+- 🌱 Estudando atualmente: **Python, Dart e Flutter**
+- 💻 Tenho experiência com: **PHP, JavaScript, MySQL, HTML, CSS e Bootstrap**
+- 🚀 Interesses: **desenvolvimento mobile, sistemas internos, APIs e automações**
+- 🎯 Objetivo: evoluir como desenvolvedor full stack/mobile
+- 📚 Sempre buscando aprender novas tecnologias e melhorar meus projetos
+
+---
+
+## 🚀 Tecnologias e ferramentas
+
+<div align="center">
+
+### Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" />
+
+### Back-end
+<img src="https://skillicons.dev/icons?i=php,python,mysql,postgres" />
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=dart,flutter" />
+
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,linux,gcp,ps" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Gráfico de atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🧩 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sistema Web</h3>
+      <p align="center">
+        <a href="https://github.com/SEU_USUARIO_GITHUB">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=NOME_DO_REPOSITORIO&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Projeto Mobile</h3>
+      <p align="center">
+        <a href="https://github.com/SEU_USUARIO_GITHUB">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=NOME_DO_REPOSITORIO&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://twitter.com/mxguxlr" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:rrmiguel018@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-2F7DC3?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+### “Código limpo, aprendizado constante e evolução diária.”
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2F7DC3&height=120&section=footer"/>
