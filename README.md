@@ -132,7 +132,7 @@ Atualmente estou aprofundando meus estudos em **Python** e **Dart/Flutter**, bus
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/miguelribeirooo/miguelribeirooo/output/snake.svg" alt="Snake animation" />
 
 </div>
 
