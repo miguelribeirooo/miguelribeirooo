@@ -7,8 +7,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=Visualizações&color=2F7DC3&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/miguelribeirooo">
+    <img src="https://komarev.com/ghpvc/?username=miguelribeirooo&label=Visualizações&color=2F7DC3&style=for-the-badge" alt="Profile views" />
   </a>
   <a href="https://github.com/SEU_USUARIO_GITHUB?tab=followers">
     <img src="https://img.shields.io/github/followers/SEU_USUARIO_GITHUB?style=for-the-badge&color=2F7DC3&labelColor=111827" alt="Followers" />
@@ -55,9 +55,9 @@ Atualmente estou aprofundando meus estudos em **Python** e **Dart/Flutter**, bus
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelribeirooo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelribeirooo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -67,7 +67,7 @@ Atualmente estou aprofundando meus estudos em **Python** e **Dart/Flutter**, bus
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=miguelribeirooo&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
@@ -77,7 +77,7 @@ Atualmente estou aprofundando meus estudos em **Python** e **Dart/Flutter**, bus
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelribeirooo&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -90,7 +90,7 @@ Atualmente estou aprofundando meus estudos em **Python** e **Dart/Flutter**, bus
     <td width="50%">
       <h3 align="center">Sistema Web</h3>
       <p align="center">
-        <a href="https://github.com/SEU_USUARIO_GITHUB">
+        <a href="https://github.com/miguelribeirooo">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=NOME_DO_REPOSITORIO&theme=tokyonight&hide_border=true" />
         </a>
       </p>
@@ -98,8 +98,8 @@ Atualmente estou aprofundando meus estudos em **Python** e **Dart/Flutter**, bus
     <td width="50%">
       <h3 align="center">Projeto Mobile</h3>
       <p align="center">
-        <a href="https://github.com/SEU_USUARIO_GITHUB">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=NOME_DO_REPOSITORIO&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/miguelribeirooo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelribeirooo&repo=NOME_DO_REPOSITORIO&theme=tokyonight&hide_border=true" />
         </a>
       </p>
     </td>
