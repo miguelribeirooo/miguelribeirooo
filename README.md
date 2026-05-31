@@ -10,8 +10,8 @@
   <a href="https://github.com/miguelribeirooo">
     <img src="https://komarev.com/ghpvc/?username=miguelribeirooo&label=Visualizações&color=2F7DC3&style=for-the-badge" alt="Profile views" />
   </a>
-  <a href="https://github.com/SEU_USUARIO_GITHUB?tab=followers">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO_GITHUB?style=for-the-badge&color=2F7DC3&labelColor=111827" alt="Followers" />
+  <a href="https://github.com/miguelribeirooo?tab=followers">
+    <img src="https://img.shields.io/github/followers/miguelribeirooo?style=for-the-badge&color=2F7DC3&labelColor=111827" alt="Followers" />
   </a>
 </p>
 
